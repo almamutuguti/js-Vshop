@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Earbuds",
+    "price": 3500,
+    "category": "Electronics",
+    "image": "images/earbuds.jpg",
+    "description": "High-quality wireless earbuds with noise cancellation.",
+    "inStock": true,
+    "flashSale": true
+  },
+  {
+    "id": "2",
+    "name": "T-Shirt",
+    "price": 1200,
+    "category": "Clothing",
+    "image": "images/tshirt.jpg",
+    "description": "100% cotton T-shirt in multiple colors.",
+    "inStock": true,
+    "flashSale": false
+  }
+]
